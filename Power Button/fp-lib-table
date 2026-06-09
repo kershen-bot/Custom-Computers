@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Power button")(type "KiCad")(uri "/Users/user/Documents/KiCad Tools/Footprint Library/Power button.pretty")(options "")(descr ""))
+)
