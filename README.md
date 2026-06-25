@@ -6,7 +6,6 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 <img width="703" height="475" alt="Screen Shot 2026-06-09 at 8 22 35 PM" src="https://github.com/user-attachments/assets/536cf32c-d19b-49a7-a1ec-af2e29deac9f" />
-------------------------------------------------------------------------------------------------------------------------------------------
 
 Configuration of the Lattepanda Mu,
   The exact size of the Lattepanda Mu is 69.6MM by 60MM, and the standard credit card is 85.6MM by 54MM it is very. The Lattepanda Mu has an  Intel X86 chip. It can be configured with an   N100  or an  N305 chip.  The ram that on the Lattepanda Mu is 16GB of LPDDR5 4800MT/s, and for storage, it can be equipped with an M.2 2230 NVME SSD or slash and a 64GB eMMC 5.1 Storage. And of course it has a wifi card, so you can have wifi. 
@@ -15,7 +14,6 @@ Configuration of the Lattepanda Mu,
 The configuration of the full device is shown below as an image.
 ------------------------------------------------------------------------------------------------------------------------------------------
 <img width="486" height="346" alt="Block Diagram" src="https://github.com/user-attachments/assets/ce8881e0-13f9-46da-8593-4cbd965ed5e8" />
-------------------------------------------------------------------------------------------------------------------------------------------
 
 The Keyboard,
   The keyboard is a split Ortholinear keyboard because Ortholinear keyboards are easier and more natural to use. The keyboard is a fork of  Ben Makes Everything's first keyboard from his video "Building a LattePanda Mu Cyberdeck." The link to his video is https://www.youtube.com/watch?v=o00P7wHbd2c, and the time that the Ortholinear keyboard is mentioned is between the time 5:10 to 8:45. 
