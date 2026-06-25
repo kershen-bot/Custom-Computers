@@ -18,7 +18,7 @@ The configuration of the full device is shown below as an image.
 
 The Keyboard,
 ------------------------------------------------------------------------------------------------------------------------------------------
-  The keyboard is a split Ortholinear keyboard because Ortholinear keyboards are easier and more natural to use. The keyboard is a fork of  Ben Makes Everything's first keyboard from his video "Building a LattePanda Mu Cyberdeck." The link to his video is https://www.youtube.com/watch?v=o00P7wHbd2c, and the time that the Ortholinear keyboard is mentioned is between the time 5:10 and 8:45. 
+  The keyboard is a split Ortholinear keyboard because Ortholinear keyboards are easier and more natural to use. The keyboard is a fork of  Ben Makes Everything's first keyboard from his video "Building a LattePanda Mu Cyberdeck." The link to his video is https://www.youtube.com/watch?v=o00P7wHbd2c, and the time that the Ortholinear keyboard is mentioned is between the times 5:10 and 8:45. I learned how to make a  keyboard from "https://www.youtube.com/@joe_scotto"
 
 The Trackpad on the computer,
 ------------------------------------------------------------------------------------------------------------------------------------------
